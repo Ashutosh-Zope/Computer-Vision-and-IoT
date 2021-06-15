@@ -1,2 +1,2 @@
-# Computer-Vision-and-IoT
+# Color Identification in Image
 TSF Task
